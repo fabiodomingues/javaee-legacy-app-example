@@ -23,5 +23,6 @@
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-digester.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-collections.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-beanutils.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/app-ejb"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

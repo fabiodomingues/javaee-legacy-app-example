@@ -5,6 +5,7 @@
 - JBoss 4.0.5
 - JSP
 - Struts 1.1
+- EJB 2.1
 
 # Glossary
 
@@ -13,6 +14,7 @@
 - WAR - Web Application Resource or Web application ARchive (https://en.wikipedia.org/wiki/WAR_(file_format))
 - EAR - Enterprise Application aRchive (https://en.wikipedia.org/wiki/EAR_(file_format))
 - EJB - Enterprise Java Beans (https://en.wikipedia.org/wiki/Enterprise_JavaBeans)
+- JAAS - Java Authentication & Authorization Service
 
 # Structure
 

@@ -5,5 +5,9 @@
             <dependent-object>WebModule_1547293644829</dependent-object>
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="app-ejb.jar" deploy-path="/" handle="module:/resource/app-ejb/app-ejb">
+            <dependent-object>EjbModule_1547316559855</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
     </wb-module>
 </project-modules>

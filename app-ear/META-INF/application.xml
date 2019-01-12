@@ -7,4 +7,7 @@
 			<context-root>app-web</context-root>
 		</web>
 	</module>
+	<module id="EjbModule_1547316559855">
+		<ejb>app-ejb.jar</ejb>
+	</module>
 </application>
