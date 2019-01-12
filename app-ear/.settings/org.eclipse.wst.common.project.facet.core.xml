@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faceted-project>
+  <runtime name="JBoss 4.0 Runtime Example"/>
+  <fixed facet="jst.ear"/>
+  <installed facet="jst.ear" version="1.4"/>
+</faceted-project>

@@ -1,0 +1,6 @@
+### Eclipse ###
+#**/.settings/
+#**/.classpath
+#**/.project
+
+**/build/
