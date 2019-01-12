@@ -26,19 +26,22 @@
 ## Struts 1.1
 
 ```
-/libs/commons-beanutils.jar
-/libs/commons-collections.jar
-/libs/commons-digester.jar
-/libs/commons-fileupload.jar
-/libs/commons-lang.jar
-/libs/commons-logging.jar
-/libs/commons-validator.jar
-/libs/jakarta-oro.jar
-/libs/struts.jar
-/libs/struts-legacy.jar
+/app-web/WebRoot/WEB-INF/lib/commons-beanutils.jar
+/app-web/WebRoot/WEB-INF/lib/commons-collections.jar
+/app-web/WebRoot/WEB-INF/lib/commons-digester.jar
+/app-web/WebRoot/WEB-INF/lib/commons-fileupload.jar
+/app-web/WebRoot/WEB-INF/lib/commons-lang.jar
+/app-web/WebRoot/WEB-INF/lib/commons-logging.jar
+/app-web/WebRoot/WEB-INF/lib/commons-validator.jar
+/app-web/WebRoot/WEB-INF/lib/jakarta-oro.jar
+/app-web/WebRoot/WEB-INF/lib/struts.jar
+/app-web/WebRoot/WEB-INF/lib/struts-legacy.jar
 ```
 
 # References
 
-- [Creating JSP in Eclipse with Tomcat server](IDEhttps://www.javatpoint.com/creating-jsp-in-eclipse-ide)
+- [Creating JSP in Eclipse with Tomcat server](https://www.javatpoint.com/creating-jsp-in-eclipse-ide)
 - [Version of Tomcat in JBossAS](https://developer.jboss.org/wiki/VersionOfTomcatInJBossAS)
+- [Java para Desenvolvimento Web](https://www.caelum.com.br/apostila-java-web/)
+- [Struts Tools Tutorial](https://docs.jboss.org/tools/4.0.1.Final/en/struts_tools_tutorial/html_single/index.html)
+- [Desenvolvendo um cadastro simples com Struts](https://www.devmedia.com.br/desenvolvendo-um-cadastro-simples-com-struts/6365)
