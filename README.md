@@ -2,7 +2,9 @@
 
 # Stack
 
+- JBoss 4.0.5
 - JSP
+- Struts 1.1
 
 # Glossary
 
@@ -18,6 +20,23 @@
 - /app-web/WebRoot/META-INF/MANIFEST.MF
 - /app-web/WebRoot/WEB-INF/web.xml
 - /app-web/WebRoot/index.jsp
+
+# Libraries
+
+## Struts 1.1
+
+```
+/libs/commons-beanutils.jar
+/libs/commons-collections.jar
+/libs/commons-digester.jar
+/libs/commons-fileupload.jar
+/libs/commons-lang.jar
+/libs/commons-logging.jar
+/libs/commons-validator.jar
+/libs/jakarta-oro.jar
+/libs/struts.jar
+/libs/struts-legacy.jar
+```
 
 # References
 

@@ -6,9 +6,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-    <div align="center">
-    	<h1>Example</h1>
-    	<a href="register.jsp">Registration</a>
-    </div>
+	<div align="center">
+		<h1>You was registered!</h1>
+		<p/>
+	    <a href="index.jsp">Voltar</a>   
+	</div>
 </body>
 </html>
