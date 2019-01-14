@@ -16,6 +16,19 @@
 - EJB - Enterprise Java Beans (https://en.wikipedia.org/wiki/Enterprise_JavaBeans)
 - JAAS - Java Authentication & Authorization Service
 
+# Getting started
+
+We should add a new "Application Policy" into the jboss/server/default/conf/login-config.xml.
+
+```
+<application-policy name = "app-security-domain">
+    <authentication>
+        <login-module code = "com.example.jaas.MyLoginModule" flag = "required">
+        </login-module>
+    </authentication>
+</application-policy>
+```
+
 # Structure
 
 - /app-ear/META-INF/application.xml - [Java EE Deployment Descriptor](http://www.oracle.com/webfolder/technetwork/jsc/xml/ns/javaee/index.html)
