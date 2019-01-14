@@ -16,6 +16,18 @@
 	</enterprise-beans>
 
 	<assembly-descriptor>
+		<security-role>
+			<role-name>SIE</role-name>
+		</security-role>
+
+		<method-permission>
+			<unchecked />
+			<method>
+				<ejb-name>RegistrationEJB</ejb-name>
+				<method-name>*</method-name>
+			</method>
+		</method-permission>
+		
 		<container-transaction>
 	  	   <method>
                 <ejb-name>RegistrationEJB</ejb-name>
